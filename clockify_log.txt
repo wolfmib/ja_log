@@ -2,3 +2,4 @@ haha
 2024-09-25 23:46:34 | Item: DEMO 3D PORTOTICLA GITHUB CASE, Project: FronEnd your End, Duration: PT1H14S
 2024-09-25 23:46:34 | Item: DEMO Hellw word, Project: FronEnd your End, Duration: PT2H23M59S
 2024-09-27 08:00:01 | Item: Make Telegram output with Openai Api done, Project: Data Scitentist, Duration: PT4H28M10S
+2024-09-28 08:00:01 | Item: Finish Task about Github project , auto commit to ja_log, and rotate func added, Project: Automation, Duration: PT4H49M54S

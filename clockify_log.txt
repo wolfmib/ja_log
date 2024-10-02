@@ -13,3 +13,9 @@ haha
 2024-10-01 08:00:02 | Item: Do Face Book Message Demo  (Hospital ) Part I CICD 20%, Project: Data Scitentist, Duration: PT3H14M34S
 2024-10-01 08:00:02 | Item: Clean Topic Disccused and Sorte file and notion and mindmeister, Project: Others, Duration: PT1M38S
 2024-10-01 08:00:02 | Item: Plan Automate System to dynamically updated Few-Shot learning context, Project: Automation, Duration: PT47M31S
+2024-10-02 08:00:02 | Item: Outlook setting, Project: Others, Duration: PT30M2S
+2024-10-02 08:00:02 | Item: Outlook Admin, add amore and correct the dns from outlook , add domain session !!!!!, Project: Admin, Duration: PT1H2M44S
+2024-10-02 08:00:02 | Item: Little Green Add Alinex-Faisser integration, Project: Automation, Duration: PT3H34M17S
+2024-10-02 08:00:02 | Item: AWS CLI AUTO TURN ON TURN OFF JAVIS-01 with addocisated E-IP, Project: Automation, Duration: PT11H15M59S
+2024-10-02 08:00:02 | Item: Do alinex-faiss (finished first api ): feature_add_https, finish, Project: Deploy AWS Instance, Duration: PT4H10M55S
+2024-10-02 08:00:02 | Item: Do alinex-faiss (finished first api ), Project: Deploy AWS Instance, Duration: PT5H57S

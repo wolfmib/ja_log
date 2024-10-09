@@ -23,3 +23,6 @@ haha
 2024-10-05 08:00:02 | Item: AI Video tool reear ch, Project: JA Group AI, Duration: PT1H42M43S
 2024-10-08 08:00:02 | Item: BI Dash Board 1, Project: Data Scitentist, Duration: PT4H
 2024-10-08 08:00:02 | Item: Working Permit, Project: Others, Duration: PT1H
+2024-10-09 08:00:02 | Item: Video SrT file Tranlate and use Clou 9 to output audio done, Project: Others, Duration: PT1H42M58S
+2024-10-09 08:00:02 | Item: Edit Video, Project: Data Analytics, Duration: PT1H11M10S
+2024-10-09 08:00:02 | Item: Demo English, Project: Data Analytics, Duration: PT51M40S

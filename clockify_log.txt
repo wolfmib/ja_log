@@ -26,3 +26,4 @@ haha
 2024-10-09 08:00:02 | Item: Video SrT file Tranlate and use Clou 9 to output audio done, Project: Others, Duration: PT1H42M58S
 2024-10-09 08:00:02 | Item: Edit Video, Project: Data Analytics, Duration: PT1H11M10S
 2024-10-09 08:00:02 | Item: Demo English, Project: Data Analytics, Duration: PT51M40S
+2024-10-10 08:00:02 | Item: BI Quick Sight Article, Project: Data Analytics, Duration: PT2H

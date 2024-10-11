@@ -279,3 +279,5 @@ State: stopped
 2024-10-09 04:10:30.789185: Instance is stopped and EIP disassociated.
 2024-10-09 07:50:39.162058: EC2 Instance is running and EIP associated.
 2024-10-09 17:00:32.229139: Instance is stopped and EIP disassociated.
+2024-10-11 07:50:40.244101: EC2 Instance is running and EIP associated.
+2024-10-11 17:00:55.486654: Instance is stopped and EIP disassociated.

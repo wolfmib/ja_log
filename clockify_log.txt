@@ -30,3 +30,5 @@ haha
 2024-10-11 08:00:02 | Item: French video upload, Project: Data Analytics, Duration: PT2H16M35S
 2024-10-12 08:00:02 | Item: UPdated Github REamde, Project: Others, Duration: PT25M17S
 2024-10-12 08:00:02 | Item: Setup Javis Kaggle Env and Download first dataset, Project: Data Scitentist, Duration: PT2H
+2024-10-13 08:00:02 | Item: Resume , job, Project: Others, Duration: PT1H35M46S
+2024-10-13 08:00:02 | Item: Payment epic, Project: Others, Duration: PT30M29S

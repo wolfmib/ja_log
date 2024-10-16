@@ -35,3 +35,5 @@ haha
 2024-10-14 08:00:02 | Item: taiwan phone fee, Project: Others, Duration: PT3M13S
 2024-10-14 08:00:02 | Item: Gmail signartuer optimzed, Project: Linkedin Info Updated, Duration: PT8M25S
 2024-10-15 08:00:02 | Item: Sleep, Project: Others, Duration: PT13H46M45S
+2024-10-16 08:00:02 | Item: take rest, Project: Others, Duration: PT40M48S
+2024-10-16 08:00:02 | Item: Threejs AI Game in javis=01 (migrate code dev env from Navida instance to here) cause navida too expensive for devlpeme process, Project: Data Scitentist, Duration: PT1H13M33S

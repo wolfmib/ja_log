@@ -473,3 +473,5 @@ Instance Name: aws-cloud9-demo3-cloud9-61348c0ac3d84f36be22eebb16e60d9c
 ID: i-0afa081730c096f0b
 State: stopped
 
+2024-10-20 17:23:51.271158: EC2 Instance is running and EIP associated.
+2024-10-20 23:14:08.657273: Instance is stopped and EIP disassociated.

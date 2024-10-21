@@ -40,3 +40,6 @@ haha
 2024-10-17 08:00:02 | Item: Threejs game , finish left and rigth panesl, Project: Data Scitentist, Duration: PT5H4M58S
 2024-10-17 08:00:02 | Item: AWS Exam AI praticer  22 NOv, Project: Linkedin Info Updated, Duration: PT55M51S
 2024-10-19 08:00:02 | Item: FrontEnd to Gaming Server, Project: FronEnd your End, Duration: PT5H1M1S
+2024-10-21 08:00:02 | Item: Vue Iframe to game-server done, Project: FronEnd your End, Duration: PT1H53M22S
+2024-10-21 08:00:02 | Item: Three.js handle subdomain done, Project: FronEnd your End, Duration: PT1H41M44S
+2024-10-21 08:00:02 | Item: FrontEnd to Gaming Server, Project: FronEnd your End, Duration: PT18H29M30S

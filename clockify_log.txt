@@ -43,3 +43,6 @@ haha
 2024-10-21 08:00:02 | Item: Vue Iframe to game-server done, Project: FronEnd your End, Duration: PT1H53M22S
 2024-10-21 08:00:02 | Item: Three.js handle subdomain done, Project: FronEnd your End, Duration: PT1H41M44S
 2024-10-21 08:00:02 | Item: FrontEnd to Gaming Server, Project: FronEnd your End, Duration: PT18H29M30S
+2024-10-22 08:00:02 | Item: S3 Static deploy down, Project: FronEnd your End, Duration: PT1H7M45S
+2024-10-22 08:00:02 | Item: Add open-ai-token in game server, Project: FronEnd your End, Duration: PT2H6M59S
+2024-10-22 08:00:02 | Item: Fix the iframe faile display issue, Project: FronEnd your End, Duration: PT1H4M9S

@@ -46,3 +46,4 @@ haha
 2024-10-22 08:00:02 | Item: S3 Static deploy down, Project: FronEnd your End, Duration: PT1H7M45S
 2024-10-22 08:00:02 | Item: Add open-ai-token in game server, Project: FronEnd your End, Duration: PT2H6M59S
 2024-10-22 08:00:02 | Item: Fix the iframe faile display issue, Project: FronEnd your End, Duration: PT1H4M9S
+2024-10-25 08:00:02 | Item: Prepare 3 article in Notion - Finish Demo Intro, Project: Linkedin Info Updated, Duration: PT1H43M3S

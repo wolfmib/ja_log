@@ -47,3 +47,5 @@ haha
 2024-10-22 08:00:02 | Item: Add open-ai-token in game server, Project: FronEnd your End, Duration: PT2H6M59S
 2024-10-22 08:00:02 | Item: Fix the iframe faile display issue, Project: FronEnd your End, Duration: PT1H4M9S
 2024-10-25 08:00:02 | Item: Prepare 3 article in Notion - Finish Demo Intro, Project: Linkedin Info Updated, Duration: PT1H43M3S
+2024-10-29 08:00:02 | Item: Finish slot-machine prepare LOL, Project: Linkedin Info Updated, Duration: PT1H50M26S
+2024-10-29 08:00:02 | Item: finish domcumt 2 warehouse to apche, Project: Linkedin Info Updated, Duration: PT2H43M32S

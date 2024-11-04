@@ -50,3 +50,5 @@ haha
 2024-10-29 08:00:02 | Item: Finish slot-machine prepare LOL, Project: Linkedin Info Updated, Duration: PT1H50M26S
 2024-10-29 08:00:02 | Item: finish domcumt 2 warehouse to apche, Project: Linkedin Info Updated, Duration: PT2H43M32S
 2024-10-31 08:00:01 | Item: Interview, Project: Linkedin Info Updated, Duration: PT1H29M51S
+2024-11-04 08:00:02 | Item: Kaggle join, initial one done, Project: FronEnd your End, Duration: PT1H
+2024-11-04 08:00:02 | Item: hsbs submition: wait change rental house, Project: JA Group AI, Duration: PT25M44S

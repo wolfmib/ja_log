@@ -53,3 +53,7 @@ haha
 2024-11-04 08:00:02 | Item: Kaggle join, initial one done, Project: FronEnd your End, Duration: PT1H
 2024-11-04 08:00:02 | Item: hsbs submition: wait change rental house, Project: JA Group AI, Duration: PT25M44S
 2024-11-05 08:00:02 | Item: handle ing clean, Project: Others, Duration: PT1H3M34S
+2024-11-14 08:00:02 | Item: Data Engineer (Australi, Project: Linkedin Info Updated, Duration: PT20M
+2024-11-14 08:00:02 | Item: IT SUPPORT & OPERATIONS (Austraia), Project: Linkedin Info Updated, Duration: PT20M
+2024-11-14 08:00:02 | Item: Post side proejct for email template, Project: Linkedin Info Updated, Duration: PT20M
+2024-11-14 08:00:02 | Item: Sutmiti kagllge one, Project: Data Scitentist, Duration: PT20M

@@ -63,3 +63,5 @@ haha
 2024-11-15 08:00:01 | Item: Alin 2024-Nov : 40, Project: Shanyu: EPIC, Duration: PT20M
 2024-11-15 08:00:01 | Item: Johnny 2024-Nov : 32.74, Project: Shanyu: EPIC, Duration: PT20M
 2024-11-16 08:00:02 | Item: Prepare chane address, Project: Others, Duration: PT1H
+2024-11-26 08:00:02 | Item: Setback my Maintens Html, save cost Part 1 done 50%, Project: FronEnd your End, Duration: PT1H20M
+2024-11-26 08:00:02 | Item: Chane Email Address Plan in notion: https://www.notion.so/Address-Migration-1476aea3badd80a7bc05e29f3a416afa, Project: Others, Duration: PT20M

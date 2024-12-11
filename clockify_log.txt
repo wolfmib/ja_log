@@ -68,3 +68,6 @@ haha
 2024-11-27 08:00:02 | Item: The Auto Running of GitHub is stop , check it, done, set i topen, Project: Others, Duration: PT1H
 2024-12-08 08:00:03 | Item: Change Address Document Collection, Project: Others, Duration: PT23H17M19S
 2024-12-09 08:00:02 | Item: Change Address Document Collection part 2, Project: Others, Duration: PT1H
+2024-12-11 08:00:01 | Item: TELET taiwan phone fee dec-2024 no fee , later, and do Complian to Epic, Project: Shanyu: EPIC, Duration: PT20M
+2024-12-11 08:00:01 | Item: EPIC FUCKING AWESEOEM DEC, Project: Shanyu: EPIC, Duration: PT40M
+2024-12-11 08:00:01 | Item: Change Address Document Collection part 3, Project: Others, Duration: PT40M

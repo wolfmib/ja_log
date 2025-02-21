@@ -675,3 +675,5 @@ ID: i-0afa081730c096f0b
 State: stopped
 
 2025-02-14 17:01:24.725756: Instance is stopped and EIP disassociated.
+2025-02-21 07:50:40.338384: EC2 Instance is running and EIP associated.
+2025-02-21 17:01:19.697295: Instance is stopped and EIP disassociated.

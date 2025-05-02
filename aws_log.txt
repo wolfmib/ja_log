@@ -1053,3 +1053,63 @@ Instance Name: ja-db-01
 ID: i-05699d8ec0366e29b
 State: stopped
 
+2025-05-02 10:00:38.962447: EC2 Instance is running and EIP associated.
+2025-05-02 16:00:56.771216: Instance is stopped and EIP disassociated.
+2025-05-02 16:30:33.120104: EC2 Instance Status:
+
+Instance Name: aws_ec2_portfolio_dev_test_env
+ID: i-0065527e6d778fda2
+State: stopped
+
+Instance Name: scientist-jason1
+ID: i-0a9a325c5f5e995d4
+State: stopped
+
+Instance Name: JA-SRV01-G4-Linux-16GB-4CPU-EBS30-079
+ID: i-020045c087f768cc7
+State: stopped
+
+Instance Name: JA-G4-Windows-Remote Desktop
+ID: i-0fcf76563721d7285
+State: stopped
+
+Instance Name: deploy_model_one
+ID: i-0a64047b7fb256ad2
+State: stopped
+
+Instance Name: aws_ec2_reader3
+ID: i-0bd1447b7e5b168e2
+State: stopped
+
+Instance Name: demo_aws_pdf_reader1
+ID: i-0a653b5b057da4704
+State: stopped
+
+Instance Name: ja_web_01
+ID: i-0402200a9e1360c12
+State: stopped
+
+Instance Name: demo-use
+ID: i-02c92f5dcaa6f036a
+State: stopped
+
+Instance Name: Javis-01
+ID: i-047015221c9bc07b3
+State: stopped
+
+Instance Name: aws-cloud9-portfolio-dev-device-f98592364d0c4400aa054a0dd14f9b10
+ID: i-0ea46841ee85febb9
+State: stopped
+
+Instance Name: aws-cloud9-demo2-cloud9-64180cf4de074e47b5d461a4093c5981
+ID: i-08d056f5d4ecac491
+State: stopped
+
+Instance Name: aws-cloud9-demo3-cloud9-61348c0ac3d84f36be22eebb16e60d9c
+ID: i-0afa081730c096f0b
+State: stopped
+
+Instance Name: ja-db-01
+ID: i-05699d8ec0366e29b
+State: stopped
+

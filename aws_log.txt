@@ -1113,3 +1113,5 @@ Instance Name: ja-db-01
 ID: i-05699d8ec0366e29b
 State: stopped
 
+2025-05-05 10:00:39.931525: EC2 Instance is running and EIP associated.
+2025-05-05 16:00:55.976450: Instance is stopped and EIP disassociated.

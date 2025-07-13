@@ -1222,3 +1222,45 @@ State: stopped
 2025-06-30 16:00:32.661178: Instance is stopped and EIP disassociated.
 2025-07-07 10:00:39.242402: EC2 Instance is running and EIP associated.
 2025-07-07 16:00:32.387058: Instance is stopped and EIP disassociated.
+2025-07-13 14:36:37.408163: EC2 Instance Status:
+
+Instance Name: ja_web_01
+ID: i-0402200a9e1360c12
+State: stopped
+
+Instance Name: Javis-01
+ID: i-047015221c9bc07b3
+State: stopped
+
+2025-07-13 16:41:14.918863: EC2 Instance Status:
+
+Instance Name: ja_web_01
+ID: i-0402200a9e1360c12
+State: stopped
+
+Instance Name: Javis-01
+ID: i-047015221c9bc07b3
+State: stopped
+
+2025-07-13 16:42:17.033019: EC2 Instance is running and EIP associated.
+2025-07-13 16:43:09.993933: EC2 Instance Status:
+
+Instance Name: ja_web_01
+ID: i-0402200a9e1360c12
+State: running
+
+Instance Name: Javis-01
+ID: i-047015221c9bc07b3
+State: stopped
+
+2025-07-13 16:56:47.210436: Instance is stopped and EIP disassociated.
+2025-07-13 16:56:56.594178: EC2 Instance Status:
+
+Instance Name: ja_web_01
+ID: i-0402200a9e1360c12
+State: stopped
+
+Instance Name: Javis-01
+ID: i-047015221c9bc07b3
+State: stopped
+

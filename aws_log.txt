@@ -1264,3 +1264,5 @@ Instance Name: Javis-01
 ID: i-047015221c9bc07b3
 State: stopped
 
+2025-07-14 10:00:39.735092: EC2 Instance is running and EIP associated.
+2025-07-14 16:00:33.020237: Instance is stopped and EIP disassociated.

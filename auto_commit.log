@@ -735,3 +735,8 @@ To github.com:wolfmib/ja_log.git
    4202403..5dedd08  main -> main
 To github.com:wolfmib/ja_log.git
    5dedd08..453c622  main -> main
+ssh: connect to host github.com port 22: Network is down
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
